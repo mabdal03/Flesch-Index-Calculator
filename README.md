@@ -9,4 +9,4 @@ the measure of how difficult a passage in English is to understand. It can be be
 You can find more information on the Flesch Index at https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests
 
 You can compile the program by heading to the directory where the files can be found and then type "make" into the WSL command line.
-Then, simply type "./main *filename*" There are 3 tests available in the repository you can use to try the program yourself! *test1, test2...*
+Then, simply type "./fleschIndex *filename*" There are 3 tests available in the repository you can use to try the program yourself! *test1, test2...*
